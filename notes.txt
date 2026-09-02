@@ -1,0 +1,3 @@
+- Git tracks changes in files.
+- Git saves different versions of a project.
+- Git helps developers work together.
